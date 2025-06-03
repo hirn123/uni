@@ -1,0 +1,7 @@
+print("Введите вид питомца")
+specie = input("")
+print("Введите возраст питомца")
+age = input("")
+print("Введите кличку питомца")
+nickname = input("")
+print("это", specie, "возрастом", age, "по кличке", nickname)
